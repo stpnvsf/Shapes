@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{C81459A3-7BCB-413C-A6B9-3F8FBF41A14E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{D5BBF032-C68F-41C3-906C-AA447B7775AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesTest", "ShapesTest\ShapesTest.csproj", "{2AEF73FF-70CE-459E-A908-54098542860C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C81459A3-7BCB-413C-A6B9-3F8FBF41A14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81459A3-7BCB-413C-A6B9-3F8FBF41A14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81459A3-7BCB-413C-A6B9-3F8FBF41A14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81459A3-7BCB-413C-A6B9-3F8FBF41A14E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5BBF032-C68F-41C3-906C-AA447B7775AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BBF032-C68F-41C3-906C-AA447B7775AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BBF032-C68F-41C3-906C-AA447B7775AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BBF032-C68F-41C3-906C-AA447B7775AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AEF73FF-70CE-459E-A908-54098542860C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEF73FF-70CE-459E-A908-54098542860C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEF73FF-70CE-459E-A908-54098542860C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEF73FF-70CE-459E-A908-54098542860C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F01DA1-1885-47A3-AD65-F0E3DB40553B}
+	EndGlobalSection
+EndGlobal
