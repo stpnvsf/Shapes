@@ -1,0 +1,6 @@
+C:\Users\Dori\Новая папка\Shapes\Area\bin\Debug\Area.dll
+C:\Users\Dori\Новая папка\Shapes\Area\bin\Debug\Area.pdb
+C:\Users\Dori\Новая папка\Shapes\Area\obj\Debug\Area.csproj.AssemblyReference.cache
+C:\Users\Dori\Новая папка\Shapes\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\Dori\Новая папка\Shapes\Area\obj\Debug\Area.dll
+C:\Users\Dori\Новая папка\Shapes\Area\obj\Debug\Area.pdb
